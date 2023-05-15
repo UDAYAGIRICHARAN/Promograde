@@ -29,9 +29,11 @@ Order Delivery Tracking: The platform offers an option to mark orders as deliver
 Secure Checkout Process: promograde implements a secure and streamlined checkout process, which includes shipping options, payment method selection, and encryption of sensitive financial data.
 
 Payment Integration: Users can make secure payments using popular payment methods like PayPal or credit cards, ensuring a smooth and reliable transaction process.
-
 ##Technologies Used
+
+'''
 Django: A powerful Python-based web framework used for backend development.
 ReactJS: A popular JavaScript library used for building interactive user interfaces.
 PostgreSQL: An open-source relational database management system for storing and retrieving data efficiently.
 At promograde, we are dedicated to delivering an exceptional shopping experience to our users, focusing on trust, convenience, and security. Join us today and explore the future of online shopping!
+'''
