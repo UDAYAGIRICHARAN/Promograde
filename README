@@ -1,8 +1,11 @@
-##promograde - Revolutionary Platform
-#Overview
+#promograde - Revolutionary Platform
+
+
+
+##Overview
 promograde is a revolutionary platform designed to connect customers with trustworthy promoters and online product-selling websites. By utilizing cutting-edge technologies, such as Django, ReactJS, and PostgreSQL, promograde offers a seamless and secure shopping experience for users. This platform includes essential features such as a shopping cart, checkout process, and payment integration, all while prioritizing the safety of users' sensitive financial information.
 
-#Key Features
+##Key Features
 Customized eCommerce Experience: promograde provides a fully featured shopping cart that allows users to browse and select products from various online stores.
 
 Product Reviews and Ratings: Users can share their experiences and provide feedback by leaving reviews and ratings for the products they have purchased.
@@ -27,7 +30,7 @@ Secure Checkout Process: promograde implements a secure and streamlined checkout
 
 Payment Integration: Users can make secure payments using popular payment methods like PayPal or credit cards, ensuring a smooth and reliable transaction process.
 
-#Technologies Used
+##Technologies Used
 Django: A powerful Python-based web framework used for backend development.
 ReactJS: A popular JavaScript library used for building interactive user interfaces.
 PostgreSQL: An open-source relational database management system for storing and retrieving data efficiently.
